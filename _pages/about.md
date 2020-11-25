@@ -8,11 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-_wellcome ciao_
-
-#°\•/°
-
-# Doy fe.
-
-## Ergo, soy.
-
+# °\•/°
