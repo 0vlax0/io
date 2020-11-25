@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "bienvenida"
-excerpt: "v"
+excerpt: "°\•/°"
 author_profile: true
 redirect_from: 
   - /about/
@@ -10,5 +10,6 @@ redirect_from:
 
 _wellcome ciao_
 
-
- 
+# Doy fe.
+## Ergo, soy.
+### :)

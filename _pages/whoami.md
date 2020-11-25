@@ -18,6 +18,7 @@ __Dislates y desvaríos hipermodernos__
 
 - [Diaspora](http://diasp.org/u/vlax "Mis medios a medias")
 	- Espejo en [Twitter](https://twitter.com/vlax_)
+	- Archivo en [identi.ca](https://identi.ca/vlax)
 - Favoritos en biblioteca [Archive](https://archive.org/details/fav-vlax)
 - Escuchas a la carta
 	- [gpodder](https://gpodder.net/user/vlax/)
