@@ -1,22 +1,23 @@
 # main links links
 main:
-  - title: "Publications"
-    url: /publications/
+  - title: "Quien"
+    url: /whoami
 
-  - title: "Talks"
-    url: /talks/    
+  - title: "Social"
+    url: /social    
 
-  - title: "Teaching"
-    url: /teaching/    
+  - title: "Artesanias"
+    url: /artsn 
     
-  - title: "Portfolio"
-    url: /portfolio/
+  - title: "Lab"
+    url: /lab
         
-  - title: "Blog Posts"
-    url: /year-archive/
+#
+#  - title: "Blog"
+#    url: /year-archive/
     
-  - title: "CV"
-    url: /cv/
+#  - title: "CV"
+#    url: /cv/
     
-  - title: "Guide"
-    url: /markdown/
+#  - title: "Guide"
+#    url: /markdown/

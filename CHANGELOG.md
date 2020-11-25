@@ -1,3 +1,15 @@
+
+# vlax
+## personal website changelog
+
+
+- 0.2+3.4.2 modificación de branch del github pages
+
+- 0.1+3.4.2 clon del original repository. 
+
+---
+
+
 ## [3.4.2](https://github.com/mmistakes/minimal-mistakes/releases/tag/3.4.2)
 
 ### Enhancements
