@@ -1,5 +1,5 @@
 ---
-permalink: /whoami
+permalink: /whoami/
 title: "El quien del Who Am I"
 excerpt: "ser o no ser to be or not to be"
 author_profile: true

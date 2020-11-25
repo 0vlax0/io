@@ -1,3 +1,14 @@
+---
+layout: archive
+permalink: /artsn/
+title: "El quien del Who Am I"
+excerpt: "ser o no ser to be or not to be"
+author_profile: true
+redirect_from: 
+  - /whoami.md/
+  - /whoami.html
+---
+
 # Obra cultural
 ### proyectos artísticos [^1]
 
