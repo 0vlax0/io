@@ -14,5 +14,5 @@ Registro de procesos de educación comunitaria.
 
 - Tuxfamily
 
-	- Manuales de usuario[en Wiki](https://faq.tuxfamily.org/Special:Contributions/Vlax)
+	- Manuales de usuario [en Wiki](https://faq.tuxfamily.org/Special:Contributions/Vlax)
 

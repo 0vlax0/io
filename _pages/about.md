@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "v"
+title: "bienvenida"
 excerpt: "v"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-_bienvenida wellcome_
+_wellcome ciao_
 
 
  
