@@ -1,16 +1,13 @@
 # main links links
 main:
   - title: "Quien"
-    url: /whoami
-
-  - title: "Social"
-    url: /social    
+    url: /whoami/
 
   - title: "Artesanias"
-    url: /artsn 
+    url: /artsn/
     
   - title: "Lab"
-    url: /lab
+    url: /lab/
         
 #
 #  - title: "Blog"

@@ -1,6 +1,19 @@
+---
+permalink: /whoami
+title: "El quien del Who Am I"
+excerpt: "ser o no ser to be or not to be"
+author_profile: true
+redirect_from: 
+  - /whoami.md/
+  - /whoami.html
+---
+
+
 ##Declaración
 
-	Soy mestizo cósmico de piel morena nativo de Mesoamerica, residente del Valle de Oaxaca. De oficio artesano, trabajo con tecnologías de la educación y la comunicación con fines decoloniales. Cocino vegetariano.
+	Soy mestizo cósmico de piel morena nativo de Mesoamerica, residente del Valle de Oaxaca.
+
+	De oficio artesano, trabajo con tecnologías de la educación y la comunicación con fines decoloniales. Cocino vegetariano.
 
 	Bajo cordialidad y común acuerdo puedo compartir Curriculum Vitae, en cuyo caso escribir via email.
 

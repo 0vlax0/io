@@ -8,5 +8,5 @@ redirect_from:
   - /about.html
 ---
 
-{: .notice} bienvenida wellcome
+bienvenida wellcome
  
