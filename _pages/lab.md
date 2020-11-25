@@ -5,5 +5,14 @@ excerpt: "educación"
 author_profile: true
 ---
 
-## Laboratorio Dyne
-- [Lab](http://lab.dyne.org/vlax)
+Registro de procesos de educación comunitaria.
+
+
+- Laboratorio Dyne
+
+	- [indice wiki](http://lab.dyne.org/vlax#Genesis)
+
+- Tuxfamily
+
+	- Manuales de usuario[en Wiki](https://faq.tuxfamily.org/Special:Contributions/Vlax)
+
