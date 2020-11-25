@@ -10,5 +10,4 @@
 - [Diaspora](http://diasp.org/u/vlax "Mis medios a medias")
 	- Espejo en [Twitter](https://twitter.com/vlax_)
 - Favoritos en biblioteca [Archive](https://archive.org/details/fav-vlax)
-- [DMDB GissTV](http://giss.tv/dmmdb/index.php?channel=vlax "Kill TV! LOL")
 - [Escuchas gpodder](https://gpodder.net/user/vlax/)
