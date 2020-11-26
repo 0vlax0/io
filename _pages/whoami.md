@@ -6,31 +6,27 @@ author_profile: true
 ---
 
 # Nuevas News
+Dislates y desvaríos con gusto hipermoderno
 
-## Dislates y desvaríos hipermodernos
-
- - #### Diaspora
+ - ### Diaspora
 	- [Base](http://diasp.org/u/vlax "Mis medios a medias")
 	- Espejo en [Twitter](https://twitter.com/vlax_)
 
- - #### Internet Archive
+ - ### Internet Archive
 	- Galería [de favoritos](https://archive.org/details/fav-vlax)
 
- - #### Radio
- Escuchas a la carta
+ - ### Radio
 	- [gpodder](https://gpodder.net/user/vlax/)
 	- [listen notes](https://www.listennotes.com/@vlax/)
 
- - #### Otros
- - [identi.ca](https://identi.ca/vlax)
+ - ### Otros
+	- [identi.ca](https://identi.ca/vlax)
 
 
 ---
 
 # Viejas News
-
-## Noticias de mi mundo antiguo
-(Archivo 2004-2015)
+Noticias de mi mundo antiguo (Archivo 2004-2015)
 
 - Blog [Notas del Sur](http://notasdelsur.wordpress.com)
 - Periodismo de radio

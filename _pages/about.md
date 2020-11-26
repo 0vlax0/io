@@ -14,9 +14,10 @@ Soy mestizo cósmico de piel morena nativo de Mesoamerica, residente del Valle d
 
 ![Atardecer de piedritas](/images/suelopiedritas_001.jpg "cielo enpredado")
 
- - ![ohh](https://web.archive.org/web/20091027042652/http://www.geocities.com/neda97a/tn_arrow33.gif) _Encuentrame_ : Opciones públicas de dislates y desvaríos[^1]
+ - ![ohh](https://web.archive.org/web/20091027042652/http://www.geocities.com/neda97a/tn_arrow33.gif) _Encuentrame_ : Opciones públicas de dislates y desvaríos.[^1]
 
-[^1] Contiene enlaces web o links a sitios personales o perfiles idem coincidente en veces con formas de comunicación como las siguientes:
+[^1]: _Contiene enlaces web o links a sitios personales o perfiles idem coincidente en veces con formas de comunicación como las siguientes:_
+
 	- Blogeo chorero
 	- Medios Sociales en red
 	- Nuevas News y Fake News y Viejas News
