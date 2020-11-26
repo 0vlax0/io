@@ -2,6 +2,7 @@
 # vlax
 ## personal website changelog
 
+- 0.2+3.4.3 revisión zero de diseño estructural de información. Edición general de textos y estudio de la tecnología jekyll.
 
 - 0.2+3.4.2 modificación de branch del github pages
 

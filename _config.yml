@@ -3,11 +3,11 @@ locale                   : "es-MX"
 title                    : "v la x"
 title_separator          : "-"
 name                     : "vlax"
-description              : "digital home"
+description              : "portfolio perfil digital home"
 url                      : https://0vlax0.github.io/io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "0vlax0/io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+repository               : "0vlax0/io"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
@@ -42,11 +42,7 @@ staticman:
 atom_feed:
   path                   : # blank (default) uses feed.xml
 
-# SEO Related
-google_site_verification :
-bing_site_verification   :
-alexa_site_verification  :
-yandex_site_verification :
+
 
 # Social Sharing
 twitter:
