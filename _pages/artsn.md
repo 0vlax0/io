@@ -5,6 +5,7 @@ excerpt: "arte"
 author_profile: true
 ---
 
+![okls](https://media.giphy.com/media/7ay2nTElNYaEo/giphy.gif)
 # Proyectos artísticos [^1]
 
 ---
