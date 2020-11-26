@@ -3,6 +3,8 @@ permalink: /whoami/
 title: "El quien del Who Am I"
 excerpt: "quien soy"
 author_profile: true
+redirect_from:
+  - /quien
 ---
 
 # Nuevas News
