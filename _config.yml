@@ -7,6 +7,7 @@ description              : "portfolio perfil digital home"
 url                      : https://0vlax0.github.io/io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+logo					 : "/images/sf_milk.png"
 repository               : "0vlax0/io"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -58,7 +59,8 @@ social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
-
+  - "https://twitter.com/vlax_"
+  - "https://diasp.org/u/vlax"
 
 # Analytics
 analytics:
@@ -86,7 +88,8 @@ author:
   facebook         :
   foursquare       :
   github           : 
-  google_plus      :
+# google_plus      :
+  diaspora 		   : "vlax"
   keybase          :
   instagram        :
   impactstory      :

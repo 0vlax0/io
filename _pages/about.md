@@ -12,9 +12,9 @@ __°\•/°__
 
 Soy mestizo cósmico de piel morena nativo de Mesoamerica, residente del Valle de Oaxaca.
 De oficio artesano, trabajo con tecnologías de la educación y la comunicación con fines decoloniales. Comparto tequio en comunidades digitales de software y cultura libre.
-Cocino vegetariano.
+ Cocino vegetariano.
 
-![ohh](https://web.archive.org/web/20091027042652/http://www.geocities.com/neda97a/tn_arrow33.gif) _Encuentrame_ : Opciones públicas de dislates y desvaríos.[^1]
+![ohh](https://web.archive.org/web/20091027042652/http://www.geocities.com/neda97a/tn_arrow33.gif) _[Encuentrame](whoami.md)_ : _Opciones públicas de dislates y desvaríos._[^1]
 
 <img src='/images/suelopiedritas_001.jpg' alt='cielo enpredado'>
 

@@ -20,7 +20,9 @@
   </div>
 
   <div class="author__urls-wrapper">
-    <button class="btn btn--inverse">Follow</button>
+	  <!--ed trads -->
+    <button class="btn btn--inverse">Encontrar</button>
+    <!-- fin trad -->
     <ul class="author__urls social-icons">
       {% if author.location %}
         <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ author.location }}</li>
@@ -46,9 +48,17 @@
       {% if author.facebook %}
         <li><a href="https://www.facebook.com/{{ author.facebook }}"><i class="fab fa-fw fa-facebook-square" aria-hidden="true"></i> Facebook</a></li>
       {% endif %}
+      <!-- sustituido a diaspora 
       {% if author.google_plus %}
         <li><a href="https://plus.google.com/+{{ author.google_plus }}"><i class="fab fa-fw fa-google-plus" aria-hidden="true"></i> Google+</a></li>
       {% endif %}
+      <!-- -->
+      {% if author.diaspora %}
+        <li><a href="https://diasp.org/u/+{{ author.diaspora }}"><i class="fab fa-diaspora" aria-hidden="true"></i> Diaspora</a></li>
+      {% endif %}
+
+      <!-- END DIASPORA -->
+      
       {% if author.linkedin %}
         <li><a href="https://www.linkedin.com/in/{{ author.linkedin }}"><i class="fab fa-fw fa-linkedin" aria-hidden="true"></i> LinkedIn</a></li>
       {% endif %}
