@@ -14,7 +14,7 @@ Soy mestizo cósmico de piel morena nativo de Mesoamerica, residente del Valle d
 
 ![ohh](https://web.archive.org/web/20091027042652/http://www.geocities.com/neda97a/tn_arrow33.gif) _Encuentrame_ : Opciones públicas de dislates y desvaríos.[^1]
 
-<img src='/images/suelopiedritas_001.jpg' alt="cielo enpredado>
+<img src='/images/suelopiedritas_001.jpg' alt='cielo enpredado'>
 
 ---
 
