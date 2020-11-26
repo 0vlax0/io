@@ -17,10 +17,12 @@ author_profile: true
  - [DMDB GissTV](http://giss.tv/dmmdb/index.php?channel=vlax "Kill TV! LOL")
 
 ## Cine
- - [Tierra de Nadie en Mercado Central de Oaxaca] 2006 (https://archive.org/details/Tierra-de-Nadie_Abastos-Oaxaca)
-	- [Xaamgëxpet] 2001 (https://archive.org/details/Xaamgexpet) 
+ - 2006 [Tierra de Nadie en Mercado Central de Oaxaca](https://archive.org/details/Tierra-de-Nadie_Abastos-Oaxaca)
+ - 2001 [Xaamgëxpet](https://archive.org/details/Xaamgexpet) 
 
 ### Audiolibros [^2]
+
+![whatever](https://media.giphy.com/media/21Saaj0KTP0kRgAZLS/giphy.gif)
 
 [^1]: De acuerdo con el pensamiento antiguo la _"obra artística"_ es aquel trabajo cultural cuyas características le adecuan para la comunicación o la expresión simbólica. En la época moderna, también dícese del viceversa a esto.
 
