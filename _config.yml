@@ -80,7 +80,7 @@ author:
   googlescholar    : 
   email            : "vlax@dyne.org"
   researchgate     :  
-  uri              :
+  uri              : "http://vlax.dyne.org"
   bitbucket        :
   codepen          :
   dribbble         :
@@ -101,7 +101,8 @@ author:
   stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : "vlax_"
+ # twitter          : "vlax_"
+  nitter		   : "vlax_" #mismo fa icon que tw
   vine             :
   weibo            :
   xing             :
