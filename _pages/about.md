@@ -1,14 +1,14 @@
 ---
 permalink: /
-title: "bienvenida"
-excerpt: "hello world"
+title: "hello world"
+excerpt: "hola"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-__°\•/°°\•/°°\•/°_o_°\•/°°\•/°\•/°°\•/°°\•/°_o_°\•/°°\•/__
+__°\•/°__
 
 Soy mestizo cósmico de piel morena nativo de Mesoamerica, residente del Valle de Oaxaca. De oficio artesano, trabajo con tecnologías de la educación y la comunicación con fines decoloniales. Comparto tequio en comunidades digitales de software y cultura libre. Cocino vegetariano.
 
