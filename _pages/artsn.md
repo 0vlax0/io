@@ -14,9 +14,10 @@ author_profile: true
 ---
 
 ## Video
-	- [DMDB GissTV](http://giss.tv/dmmdb/index.php?channel=vlax "Kill TV! LOL")
+ - [DMDB GissTV](http://giss.tv/dmmdb/index.php?channel=vlax "Kill TV! LOL")
+
 ## Cine
-	- [Tierra de Nadie en Mercado Central de Oaxaca] 2006 (https://archive.org/details/Tierra-de-Nadie_Abastos-Oaxaca)
+ - [Tierra de Nadie en Mercado Central de Oaxaca] 2006 (https://archive.org/details/Tierra-de-Nadie_Abastos-Oaxaca)
 	- [Xaamgëxpet] 2001 (https://archive.org/details/Xaamgexpet) 
 
 ### Audiolibros [^2]
