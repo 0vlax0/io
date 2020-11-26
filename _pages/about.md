@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "hello world"
-excerpt: "hola"
+excerpt: "bienvenida wellcome"
 author_profile: true
 redirect_from: 
   - /about/
@@ -14,7 +14,7 @@ Soy mestizo cósmico de piel morena nativo de Mesoamerica, residente del Valle d
 
 De oficio artesano, trabajo con tecnologías de la educación y la comunicación con fines decoloniales. Comparto tequio en comunidades digitales de software y cultura libre. Cocino vegetariano.
 
-> ![ohh](https://web.archive.org/web/20091027042652/http://www.geocities.com/neda97a/tn_arrow33.gif) _[Encuentrame](/io/quien)_ : _Opciones públicas de dislates y desvaríos._[^1]
+> ![ohh](https://web.archive.org/web/20091027042652/http://www.geocities.com/neda97a/tn_arrow33.gif) _[Encuentrame](/io/quien)_ : _en mi vertedero de dislates y desvaríos._[^1]
 
 <img src='/io/images/suelopiedritas_001.jpg' alt='cielo enpredado'>
 
@@ -28,3 +28,5 @@ De oficio artesano, trabajo con tecnologías de la educación y la comunicación
 	- Nuevas News y Fake News y Viejas News
 	- Escuchas hipermodernas
 	- Periodismo multimedia
+
+![omg](https://lab.dyne.org/vlax?action=AttachFile&do=get&target=omgYoure_ddd.gif)
