@@ -5,19 +5,15 @@ excerpt: "arte"
 author_profile: true
 ---
 
-## Proyectos artísticos [^1]
-
-### Silente Sonoro 
-
- - Fonografía, Radio, Narrativa Sonora y Educación Acústica.
-
-### Warscape Sonata
-
- - Paisaje sonoro de la narcoguerra en México.
+# Proyectos artísticos [^1]
 
 ---
 
-## Misceláneo
+## <img src="/io/spider-s.png" alt="spiderssss"> [Galería de proyectos](/portfolio/) destacados 
+
+---
+
+## <img src="/io/spider-s.png" alt="sf_milk.png"> Misceláneo
 
 - __Video__
 	- [DMDB GissTV](http://giss.tv/dmmdb/index.php?channel=vlax "Kill TV! LOL")
