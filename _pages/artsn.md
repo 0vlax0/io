@@ -9,11 +9,11 @@ author_profile: true
 
 ---
 
-## <img src="/io/spider-s.png" alt="spiderssss"> [Galería de proyectos](/portfolio/) destacados 
+## <img src="/io/images/spider-s.png" alt="spiderssss"> [Galería de proyectos](/portfolio/) destacados 
 
 ---
 
-## <img src="/io/spider-s.png" alt="sf_milk.png"> Misceláneo
+## <img src="/io/images/spider-s.png" alt="sf_milk.png"> Misceláneo
 
 - __Video__
 	- [DMDB GissTV](http://giss.tv/dmmdb/index.php?channel=vlax "Kill TV! LOL")
