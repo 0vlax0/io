@@ -6,6 +6,7 @@ collection: portfolio
 
 # Prehistoria
 
- - En 2011 se publica la primera versión de un sitio web para mostrar una cartografía de archivos fonográficos personales.
- _Activo en modo de solo consulta en [Tuxfamily](http://silente.tuxfamily.org)._
+ - __Silente Sonoro__ [nace en 2011](http://silente.tuxfamily.org/Nacimiento). La primera versión se publicó utilizando las tecnologías [SPIP](https://spip.net) con base de datos MySQL. Mediante algunos complementos se mostraba un mapa interactivo con geoposicionamiento de los archivos fonográficos personales.
+
+ - Esta es la estructura base del proyecto, que se mantendrá consultable en [Tuxfamily](http://silente.tuxfamily.org).
  

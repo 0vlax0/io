@@ -6,10 +6,10 @@ excerpt: 'Ensayo para obtener el grado de Artes Visuales en la Facultad de Artes
 date: 2015-03-01
 venue: 'Ensayo'
 paperurl: 'http://0vlax0.github.io/io/files/ArtesanadoMultimedia_UNAM_tesis.pdf'
-citation: 'Flores-García, Vladimir. (2015). &quot;Artesanado Multimedia. Aproximaciones racionales desde la cultura libre.&quot; <i>Ensayo 1</i>. 1(1).'
+citation: 'Flores-García, Vladimir. (2015). &quot;Artesanado Multimedia. Aproximaciones racionales desde la cultura libre.&quot; <i>Ensayo</i>.'
 ---
 
  - [Descarga PDF](http://0vlax0.github.io/io/files/ArtesanadoMultimedia_UNAM_tesis.pdf)
  - Espejo en la [Biblioteca de la UNAM ](https://is.gd/oYlUCI)
  
-Citación recomendada: Flores-García, Vladimir. (2015). "Artesanado Multimedia : aproximaciones racionales desde la cultura libre" <i>Ensayo 1</i>. 1(1).
+Citación recomendada: Flores-García, Vladimir. (2015). "Artesanado Multimedia : aproximaciones racionales desde la cultura libre" <i>Ensayo</i>.
