@@ -7,7 +7,7 @@ collection: portfolio
 ## [warscape.tuxfamily.org](https://warscape.tuxfamily.org)
 
 
-# Prehistoria
+# Registro histórico del proyecto
 
  - Utiliza información viral de microblogging y video para crear señales de audio.
 
