@@ -4,7 +4,7 @@ excerpt: "Artesanía sonora con investigación periodística. Composiciones de p
 collection: portfolio
 ---
 
-## [->](https://warscape.tuxfamily.org)
+## [warscape.tuxfamily.org](https://warscape.tuxfamily.org)
 
 
 # Prehistoria
@@ -19,4 +19,4 @@ collection: portfolio
 
  - A partir del año cero del coronavirus (2020) se restaura el entorno de gestión [Dokuwiki](https://dokuwiki.org) y se pasa a modo archivo.
  
-<img src="io/images/ws-dw_2020.png" alt="captura de pantalla">
+<img src='/io/images/ws-dw_2020.png' alt='captura de pantalla'>
