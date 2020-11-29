@@ -2,6 +2,14 @@
 # vlax
 ## personal website changelog
 
+### Tuneando
+
+- 1.0 Edición de hojas markdown con ilustraciones animadas (gif). Traducción de algunos textos autogenerado por Jekyll. 
+
+### Forkeando
+
+- 0.2+3.4.4 primera versión acorde al diseño estructural de información. Ilustrado con imágenes creadas ex-profeso. Incorporación de soluciónes nativas portfolio y lista de publicaciones. Siguientes versiones ramifican su nomenclatura.
+
 - 0.2+3.4.3 revisión zero de diseño estructural de información. Edición general de textos y estudio de la tecnología jekyll.
 
 - 0.2+3.4.2 modificación de branch del github pages

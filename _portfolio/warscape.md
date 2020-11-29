@@ -4,8 +4,19 @@ excerpt: "Artesanía sonora con investigación periodística. Composiciones de p
 collection: portfolio
 ---
 
-# Prehistoria
- - Utiliza información viral de microblogging y video para crear señales de audio. Utiliza GNU/Linux en todo el proceso creativo (rsstail, audacity, screen, espeak, oggtools, etc) y comparte los archivos fuentes y la documentación técnica. Es una obra con licencia Arte Libre.
+## [->](https://warscape.tuxfamily.org)
 
- - En 2011 se publica la primera versión con hospedaje en[Tuxfamily](https://project.tuxfamily.org/?do=tags;search=soft::audacity#%3Fdo%3Dgroup%3Bname%3Dwarscapeson).
+
+# Prehistoria
+
+ - Utiliza información viral de microblogging y video para crear señales de audio.
+
+ - Sistemas operativos y/o entornos de software GNU/Linux son parte de todo el proceso creativo (_rsstail, audacity, screen, espeak, oggtools, etc_).
+
+ - Se comparten los archivos fuentes y la documentación técnica. Es una obra con licencia Arte Libre.
+
+ - En 2011 se publica la primera versión con hospedaje en la comuna digital [Tuxfamily](https://tuxfamily.org), donde reside  desde entonces este proyecto. Hasta el año 2014 se apuntaron los dominios _warscape.info_ y _balaperdida.info_.
+
+ - A partir del año cero del coronavirus (2020) se restaura el entorno de gestión [Dokuwiki](https://dokuwiki.org) y se pasa a modo archivo.
  
+<img src="io/images/ws-dw_2020.png" alt="captura de pantalla">
