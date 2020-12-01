@@ -9,7 +9,7 @@ author_profile: true
 
 Lista de todos los contenidos del sitio web.
 
-Para usarlo con tus hay una [versión XML]({{ base_path }}/sitemap.xml) también disponible.
+Para usarlo con tu lector de fuentes hay una [versión XML]({{ base_path }}/sitemap.xml) también disponible.
 
 <h2>Páginas</h2>
 {% for post in site.pages %}

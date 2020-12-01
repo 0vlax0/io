@@ -5,8 +5,15 @@ excerpt: "educación"
 author_profile: true
 ---
 
-Registro de procesos de educación comunitaria.
+# Procesos en educación decolonial
 
+
+## Ensayos
+
+ - Disponbibles en la sección de [Publicaciones](/io/publications)
+
+
+## Manuales, guías y tutoriales
 
 - Laboratorio Dyne
 
@@ -15,4 +22,3 @@ Registro de procesos de educación comunitaria.
 - Tuxfamily
 
 	- Manuales de usuario [en Wiki](https://faq.tuxfamily.org/Special:Contributions/Vlax)
-
