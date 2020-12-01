@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Un metasistema para la producción radiofónica "
 collection: publications
 permalink: /publication/2020-06-24-metasistema-para-radio
 excerpt: 'Un prototipo de organización y producción radiofónica basado en los sistemas complejos.'
