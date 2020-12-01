@@ -4,7 +4,9 @@ excerpt: "Artesanía sonora con narrativa y fonografía. Procesos de acción mul
 collection: portfolio
 ---
 
-[Tuxfamily](http://silente.tuxfamily.org)
+# [silente.tuxfamily.org](http://silente.tuxfamily.org)
+
+---
 
 # Historial
 

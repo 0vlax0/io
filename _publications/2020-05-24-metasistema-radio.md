@@ -9,7 +9,7 @@ paperurl: 'http://0vlax0.github.io/io/files/MetaSistema-para-Radio_Vladimir_Flor
 citation: 'Flores-García, Vladimir. (2020). &quot;Un meta sistema para la producción radiofónica.&quot; <i>Ensayo</i>.'
 ---
 
-Este ensayo formea parte de los trabajos finales del curso _"Pensamiento Sistémico"_, [disponible en Coursera.org](https://www.coursera.org/learn/pensamiento-sistemico) y diseñado por la UNAM.
+Este ensayo forma parte de los trabajos finales del curso _"Pensamiento Sistémico"_, [disponible en Coursera.org](https://www.coursera.org/learn/pensamiento-sistemico) y diseñado por la UNAM.
 
  - [Descargar archivo PDF](http://0vlax0.github.io/io/files/MetaSistema-para-Radio_Vladimir_Flores_2020.pdf)
 
