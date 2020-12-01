@@ -22,7 +22,7 @@ Cocino vegetariano.
 
 [^1]: _Contiene enlaces web o links a sitios personales o perfiles idem, coincidente en veces con formas de comunicación similares a las siguientes:_
 
-	- Blogeo chorero
+	- Blogueo chorero
 	- Medios Sociales en red
 	- Nuevas News y Fake News y Viejas News
 	- Escuchas hipermodernas
