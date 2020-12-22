@@ -10,7 +10,7 @@ author_profile: true
 
 ## Ensayos
 
- - Disponbibles en la sección de [Publicaciones](/publications)
+ - Disponibles en la sección de [Publicaciones](/publications)
 
 
 ## Manuales, guías y tutoriales
