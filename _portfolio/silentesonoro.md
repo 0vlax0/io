@@ -1,6 +1,6 @@
 ---
 title: "Silente Sonoro"
-excerpt: "Artesanía sonora con narrativa y fonografía. Procesos de acción multidisplinaria y educación sobre imaginario acústico.<br/><img src='/io/images/ssban01.png'>"
+excerpt: "Artesanía sonora con narrativa y fonografía. Procesos de acción multidisplinaria y educación sobre imaginario acústico.<br/><img src='/images/ssban01.png'>"
 collection: portfolio
 ---
 
