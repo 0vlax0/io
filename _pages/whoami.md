@@ -13,7 +13,7 @@ redirect_from:
 Dislates y desvaríos con gusto hipermoderno
 
  - ### [Diaspora](http://diasp.org/u/vlax "Mis medios a medias")
-	- Espejo liviano de [Twitter](https://nitter.cattube.org/vlax_)
+	- Reflejándose en [Twitter](https://nitter.cattube.org/vlax_)
 		- Antecedente en [identi.ca](https://identi.ca/vlax)
 
  - ### Internet Archive
