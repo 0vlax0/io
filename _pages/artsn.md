@@ -9,7 +9,7 @@ author_profile: true
 
 ---
 
-## <img src="/io/images/spider-s.png" alt="spiderssss"> [Proyectos](/io/portfolio/) destacados 
+## <img src="/images/spider-s.png" alt="spiderssss"> [Proyectos](/io/portfolio/) destacados 
 
 ---
 
