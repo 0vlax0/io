@@ -1,6 +1,6 @@
 ---
 title: "Warscape Sonata"
-excerpt: "Artesanía sonora con investigación periodística. Composiciones de paisaje sonoro y acciones multimedia sobre la narcoguerra en México.<br/><img src='/io/images/wsban01.png'>"
+excerpt: "Artesanía sonora con investigación periodística. Composiciones de paisaje sonoro y acciones multimedia sobre la narcoguerra en México.<br/><img src='/images/wsban01.png'>"
 collection: portfolio
 ---
 
@@ -22,5 +22,5 @@ collection: portfolio
 
  - A partir del año cero del coronavirus (2020) se restaura el entorno de gestión [Dokuwiki](https://dokuwiki.org) y el sitio entra a modo archivo.
 
-<img src='/io/images/ws-dw_2020.png' alt='captura de pantalla'>
+<img src='/images/ws-dw_2020.png' alt='captura de pantalla'>
 
