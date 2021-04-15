@@ -22,3 +22,8 @@ author_profile: true
 - Tuxfamily
 
 	- Manuales de usuario [en Wiki](https://faq.tuxfamily.org/Special:Contributions/Vlax)
+
+## Entrevistas
+
+- [La Escucha atenta](https://www.laescuchaatenta.com/cuestionario/vlax)
+ - Descarga [versión PDF]()
