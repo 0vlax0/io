@@ -26,4 +26,4 @@ author_profile: true
 ## Entrevistas
 
 - [La Escucha atenta](https://www.laescuchaatenta.com/cuestionario/vlax)
- - Descarga [versión PDF]()
+ 	- Descarga [versión PDF](http://0vlax0.github.io/io/files/LEA_vlax_.pdf)
