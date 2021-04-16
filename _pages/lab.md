@@ -23,7 +23,3 @@ author_profile: true
 
 	- Manuales de usuario [en Wiki](https://faq.tuxfamily.org/Special:Contributions/Vlax)
 
-## Entrevistas
-
-- [La Escucha atenta](https://www.laescuchaatenta.com/cuestionario/vlax)
- 	- Descarga [versión PDF](http://0vlax0.github.io/io/files/LEA_vlax_.pdf)
