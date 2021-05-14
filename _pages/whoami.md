@@ -20,8 +20,9 @@ Dislates y desvaríos con gusto hipermoderno
 	- Galería [de favoritos](https://archive.org/details/fav-vlax)
 
  - ### Radio
+ 	Mis escuchas
+	- [listen notes](https://lnns.co/EYj1bsQgx0l)
 	- [gpodder](https://gpodder.net/user/vlax/)
-	- [listen notes](https://www.listennotes.com/@vlax/)
 
 ---
 
