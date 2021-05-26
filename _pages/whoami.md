@@ -18,7 +18,7 @@ Dislates y desvaríos con gusto hipermoderno
 
  - ### Internet Archive
  	- Mi [Archivística](https://archive.org/details/@vlax)
-		- Galería [de favoritos](https://archive.org/details/fav-vlax)
+	  - Galería [de favoritos](https://archive.org/details/fav-vlax)
 
  - ### Radio
  	Mis escuchas
