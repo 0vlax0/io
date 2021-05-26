@@ -17,7 +17,8 @@ Dislates y desvaríos con gusto hipermoderno
 		- Antecedente en [identi.ca](https://identi.ca/vlax)
 
  - ### Internet Archive
-	- Galería [de favoritos](https://archive.org/details/fav-vlax)
+ 	- Mi [Archivística](https://archive.org/details/@vlax)
+		- Galería [de favoritos](https://archive.org/details/fav-vlax)
 
  - ### Radio
  	Mis escuchas
