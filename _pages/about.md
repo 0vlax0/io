@@ -15,7 +15,7 @@ Soy mestizo cósmico de piel morena nativo de Mesoamerica, residente del Valle d
 De oficio artesano, trabajo con tecnologías de la educación y la comunicación con fines decoloniales. Comparto tequio en comunidades digitales de software y cultura libre.
 Cocino vegetariano.
 
-> ![ohh](https://web.archive.org/web/20091027042652/http://www.geocities.com/neda97a/tn_arrow33.gif) _[Encuentrame](/quien)_ en mi vertedero de dislates y desvaríos.[^1]
+> ![ohh](/images/posada-catrinitar.gif) _[Encuentrame](/quien)_ en mi vertedero de dislates y desvaríos.[^1]
 
 
 ---
@@ -28,4 +28,4 @@ Cocino vegetariano.
 	- Escuchas hipermodernas
 	- Periodismo multimedia
 
-![omg](https://lab.dyne.org/vlax?action=AttachFile&do=get&target=omgYoure_ddd.gif)
+![omg](/images/omgYoure_ddd.gif)
