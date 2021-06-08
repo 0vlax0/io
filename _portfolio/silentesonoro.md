@@ -4,7 +4,7 @@ excerpt: "Artesanía sonora con narrativa y fonografía. Procesos de acción mul
 collection: portfolio
 ---
 
-# [silente.tuxfamily.org](http://silente.tuxfamily.org)
+# [silente.dyne.org](http://silente.dyne.org)
 
 ---
 
@@ -14,13 +14,13 @@ collection: portfolio
 
 ### Primera temporada
 
- - En 2008 [nace Silente Sonoro](http://silente.tuxfamily.org/Nacimiento). La primera versión del sitio web se publicó utilizando las tecnologías [SPIP](https://spip.net) con base de datos MySQL. Mediante algunos complementos se mostraba un mapa interactivo con geoposicionamiento de los archivos fonográficos personales.
+ - En __2008__ [nace Silente Sonoro](http://silente.tuxfamily.org/Nacimiento). La primera versión del sitio web se publicó utilizando las tecnologías [SPIP](https://spip.net) con base de datos MySQL. Mediante algunos complementos se mostraba un mapa interactivo con geoposicionamiento de los archivos fonográficos personales.
 
- - Con la producción de una serie radiofónica, en 2013 concluye la primera temporada.
+ - Con la producción de una serie radiofónica, en __2013__ concluye la primera temporada.
 
 ### Segunda temporada
 
-![ya mero](https://web.archive.org/web/20091027035934/http://www.geocities.com/juan1merlin/underconstruction_sign.gif)
+- __2020__ ![Reconstrucción de sitio web](https://silente.dyne.org). Repositorio en GitHub con motor Jekyll y estructura general basada en Markdown, CSS, HTML5 y Javascript.
 
  
  
