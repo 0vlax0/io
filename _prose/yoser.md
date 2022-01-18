@@ -1,6 +1,8 @@
 ---
-title : Ser quien soy
-collection : prose
+permalink: /prose/serquiensoy
+title: "Ser quien soy"
+excerpt: "La otra cara"
+author_profile: false
 ---
 
 ### Soy una raya en el mar
