@@ -2,6 +2,7 @@
 permalink: /prose/serquiensoy
 title: "Ser quien soy"
 excerpt: "La otra cara"
+layout : prose
 
 ---
 
