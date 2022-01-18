@@ -1,6 +1,6 @@
 ---
-name : Ser quien soy
-
+title : Ser quien soy
+collection : prose
 ---
 
 ### Soy una raya en el mar
