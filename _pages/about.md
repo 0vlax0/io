@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "hello world"
+title: "hello mundanal world"
 excerpt: "bienvenida wellcome"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-__°\•/°__
+## °\•/°
 
 [Soy mestizo cósmico](/prose/serquiensoy) de piel morena nativo de Mesoamerica y migrante en América del Norte.
 
