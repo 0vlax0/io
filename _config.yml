@@ -4,12 +4,12 @@ title                    : "v la x"
 title_separator          : "-"
 name                     : "vlax"
 description              : "portfolio perfil digital home"
-url                      : https://0vlax0.github.io/io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://0vlax0.github.io/io # the base hostname & protocol for your site
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 logo					 : "sf_milk.png"
 repository               : "0vlax0/io"
-breadcrumbs              : false # true, false (default)
+breadcrumbs              : true # true, false (default)
 words_per_minute         : 160
 future                   : true
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
@@ -20,10 +20,10 @@ comments:
     shortname            :
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
-  facebook:
-    appid                :
-    num_posts            : # 5 (default)
-    colorscheme          : # "light" (default), "dark"
+#  facebook:
+#    appid                :
+#    num_posts            : # 5 (default)
+#    colorscheme          : # "light" (default), "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
   branch                 : "gh-pages" # "master", "gh-pages"
@@ -48,10 +48,6 @@ atom_feed:
 # Social Sharing
 twitter:
   username               : &twitter
-facebook:
-  username               :
-  app_id                 :
-  publisher              :
 og_image                 :  # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
@@ -61,13 +57,6 @@ social:
   links: # An array of links to social media profiles
   - "https://twitter.com/vlax_"
   - "https://diasp.org/u/vlax"
-
-# Analytics
-#analytics:
-  #provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
- # google:
-  #  tracking_id          :
-
 
 # Site Author
 author:
@@ -83,32 +72,19 @@ author:
   uri              : "http://vlax.dyne.org"
   bitbucket        :
   codepen          :
-  dribbble         :
   flickr           :
-  facebook         :
   foursquare       :
   github           : 
-# google_plus      :
   diaspora 		   : "vlax"
   keybase          :
-  instagram        :
-  impactstory      :
   lastfm           :
   linkedin         :
   orcid            : 
-  pinterest        :
   soundcloud       :
   stackoverflow    : 
   steam            :
   tumblr           :
- # twitter          : "vlax_"
   nitter		   : "vlax_" #mismo fa icon que tw
-  vine             :
-  weibo            :
-  xing             :
-  youtube          :
-  wikipedia        :
-
 
 # Reading Files
 include:
