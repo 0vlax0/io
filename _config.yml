@@ -4,10 +4,10 @@ title                    : "v la x"
 title_separator          : "-"
 name                     : "vlax"
 description              : "portfolio perfil digital home"
-url                      : https://0vlax0.github.io/io # the base hostname & protocol for your site
+url                      : https://0vlax0.github.io/io # the base hostname & protocol for my site
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
-logo					 : "sf_milk.png"
+logo					           : "sf_milk.png"
 repository               : "0vlax0/io"
 breadcrumbs              : true # true, false (default)
 words_per_minute         : 160
@@ -75,7 +75,7 @@ author:
   flickr           :
   foursquare       :
   github           : 
-  diaspora 		   : "vlax"
+  diaspora 		     : "vlax"
   keybase          :
   lastfm           :
   linkedin         :
@@ -84,7 +84,7 @@ author:
   stackoverflow    : 
   steam            :
   tumblr           :
-  nitter		   : "vlax_" #mismo fa icon que tw
+  nitter		       : "vlax_" #mismo fa icon que tw
 
 # Reading Files
 include:
@@ -157,10 +157,11 @@ collections:
 # teaching:
 #  output: true
 #  permalink: /:collection/:path/
-# talks:
-#   output: true
-#   permalink: /:collection/:path/
-# 
+
+talks:
+   output: true
+   permalink: /:collection/:path/
+ 
 
 # Defaults
 defaults:
@@ -219,7 +220,8 @@ defaults:
       author_profile: true
       share: false
       comment: true
-  # _talks
+
+# _talks
   - scope:
       path: ""
       type: talks
