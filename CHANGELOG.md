@@ -4,6 +4,7 @@
 
 ### Tuneando
 
+- 1.01 Estudio de estructuras Collection para Jekyll. Primera colección de textos tipo prosa.
 - 1.0 Edición de hojas markdown con ilustraciones animadas (gif). Traducción de algunos textos autogenerado por Jekyll. 
 
 ### Forkeando
