@@ -13,13 +13,18 @@ author_profile: true
 
 ---
 
-## Audiocuentos 
+# Sonido
+## Cuentos
  - 2016 [Microfábulas para niños](https://soundcloud.com/microfabulas/sets)
+## Periodismo
+ - 2021 [Crónicas Prosaicas](https://archive.org/details/cronicas-prosaicas)
 
+# Imagen
 ## Video
  - [DMDB GissTV](http://giss.tv/dmmdb/index.php?channel=vlax "Kill TV! LOL")
 
 ## Cine
+ - 2020 [Anestesia Fantasy](https://archive.org/details/anestesia-fantasy)
  - 2006 [Tierra de Nadie en Mercado Central de Oaxaca](https://archive.org/details/Tierra-de-Nadie_Abastos-Oaxaca)
  - 2001 [Xaamgëxpet](https://archive.org/details/Xaamgexpet) 
 
