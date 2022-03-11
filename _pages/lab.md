@@ -27,3 +27,7 @@ author_profile: true
 
 - [La Escucha atenta](https://www.laescuchaatenta.com/cuestionario/vlax)
  	- Descarga [versión PDF](http://0vlax0.github.io/io/files/LEA_vlax_.pdf)
+
+## Conferencias
+ 
+ - [Documenting Discontent : sound art and archival in Mexico. Center for Experimental Ethnography of Pensylvania University](https://www.centerforexperimentalethnography.org/events/documenting-discontent), Marzo 2021
