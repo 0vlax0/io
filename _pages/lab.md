@@ -30,4 +30,4 @@ author_profile: true
 
 ## Conferencias
  
- - [Documenting Discontent : sound art and archival in Mexico. Center for Experimental Ethnography of Pensylvania University](https://www.centerforexperimentalethnography.org/events/documenting-discontent), Marzo 2021
+ - [Documenting Discontent : sound art and archival in Mexico](https://www.centerforexperimentalethnography.org/events/documenting-discontent), Center for Experimental Ethnography of Pensylvania University, Marzo 2021.
