@@ -12,16 +12,20 @@ author_profile: true
 
  - Disponibles en la sección de [Publicaciones](/publications)
 
+----
 
 ## Manuales, guías y tutoriales
 
 - Laboratorio Dyne
 
 	- [indice wiki](http://lab.dyne.org/vlax#Genesis)
+	- [Devuan Galaxy](https://dev1galaxy.org/search.php?action=show_user_posts&user_id=5982)
 
 - Tuxfamily
 
 	- Manuales de usuario [en Wiki](https://faq.tuxfamily.org/Special:Contributions/Vlax)
+
+----
 
 ## Entrevistas
 
