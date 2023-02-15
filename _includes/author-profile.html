@@ -43,18 +43,12 @@
         <li><a href="{{ author.researchgate }}"><i class="fab fa-fw fa-researchgate" aria-hidden="true"></i> ResearchGate</a></li>
       {% endif %}
 	    
-      <!-- Nitter pussthecat end of life JAN2023 
-      {% if author.nitter %}
-        <li><a href="https://nitter.pussthecat.org/{{ author.nitter }}"><i class="fab fa-fw fa-twitter-square" aria-hidden="true"></i> Nitter</a></li>
-      {% endif %}
-      -->
-	    
-      <!-- sustituido a diaspora  -->
+      <!-- Diaspora  -->
       {% if author.diaspora %}
         <li><a href="https://diasp.org/u/{{ author.diaspora }}"><i class="fab fa-diaspora"></i> Diaspora</a></li>
       {% endif %}
 
-      <!-- END DIASPORA -->
+      <!-- END Diaspora -->
       
       {% if author.linkedin %}
         <li><a href="https://www.linkedin.com/in/{{ author.linkedin }}"><i class="fab fa-fw fa-linkedin" aria-hidden="true"></i> LinkedIn</a></li>
@@ -63,11 +57,7 @@
       {% if author.github %}
         <li><a href="https://github.com/{{ author.github }}"><i class="fab fa-fw fa-github" aria-hidden="true"></i> Github</a></li>
       {% endif %}
-	    
-      {% if author.lastfm %}
-        <li><a href="https://lastfm.com/user/{{ author.lastfm }}"><i class="fab fa-fw fa-lastfm-square" aria-hidden="true"></i> Last.fm</a></li>
-      {% endif %}
-	    
+	    	    
     </ul>
   </div>
 </div>
