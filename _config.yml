@@ -55,7 +55,7 @@ social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
-  - "https://twitter.com/vlax_"
+  # - "https://twitter.com/vlax_"
   - "https://diasp.org/u/vlax"
 
 # Site Author
@@ -65,26 +65,17 @@ author:
   bio              : "artesano multimedia"
   location         : "Oaxaca - Colorado"
   employer         :
-  pubmed           : 
-  googlescholar    : 
   email            : "vlax@dyne.org"
   researchgate     :  
   uri              : "http://vlax.dyne.org"
-  bitbucket        :
-  codepen          :
   flickr           :
-  foursquare       :
   github           : 
   diaspora 		     : "vlax"
   keybase          :
   lastfm           :
-  linkedin         :
-  orcid            : 
   soundcloud       :
   stackoverflow    : 
-  steam            :
-  tumblr           :
-  nitter		       : "vlax_" #mismo fa icon que tw
+  # nitter		       : "vlax_" #mismo fa icon que tw
 
 # Reading Files
 include:
