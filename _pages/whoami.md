@@ -10,7 +10,7 @@ redirect_from:
 ![OMG eres tan chingón!](https://web.archive.org/web/20090901175751/http://geocities.com/redfishfalls/who_i_am.gif)
 
 # Nuevas News
-Dislates y desvaríos con gusto hipermoderno
+`.Dislates y desvaríos con gusto hipermoderno`
 
  - ### [Diaspora](http://diasp.org/u/vlax "Mis medios a medias")
 	- Reflejándose en [Twitter](https://nitter.cattube.org/vlax_)
@@ -28,7 +28,7 @@ Dislates y desvaríos con gusto hipermoderno
 ---
 
 # Viejas News
-Noticias de mi mundo antiguo (Archivo 2004-2015)
+`.Noticias de mi mundo antiguo (Archivo 2004-2015)`
 
 - Blog [Notas del Sur](http://notasdelsur.wordpress.com)
 - Periodismo de radio
@@ -40,6 +40,6 @@ Noticias de mi mundo antiguo (Archivo 2004-2015)
 ![who is yo](https://web.archive.org/web/20090903073236/http://geocities.com/whoisceres2/fluffy.gif)
 
 # Fake News
-¿Quieres ser mi amigoa?
+`.¿Quieres ser mi amigoa?`
 
 - [Facebook](https://www.facebook.com/public/vladimir-flores-garcia)
