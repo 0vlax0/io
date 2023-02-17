@@ -8,12 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-## °\•/°
+# °\•/°
 
-[Soy mestizo cósmico](/prose/serquiensoy) de piel morena nativo de Mesoamerica y migrante en América del Norte.
-
-De oficio artesano, trabajo con tecnologías de la educación y la comunicación con fines decoloniales. Comparto tequio en comunidades digitales de software y cultura libre.
-Cocino vegetariano.
+## [Soy mestizo cósmico](/prose/serquiensoy) de piel morena nativo de Mesoamerica y migrante en América del Norte. De oficio artesano, trabajo con tecnologías de la educación y la comunicación con fines decoloniales. Comparto tequio en comunidades digitales de software y cultura libre. Cocino vegetariano.
 
 > ![ohh](/images/posada-catrinitar.gif) _[Encuentrame](/quien)_ en mi vertedero de dislates y desvaríos.[^1]
 
