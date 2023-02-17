@@ -17,12 +17,12 @@ redirect_from:
 
 ---
 
-[^1]: _Contiene enlaces web o links a sitios personales o perfiles idem, coincidente en veces con formas de comunicación similares a las siguientes:_
+[^1]: Contiene enlaces web o links a sitios personales o perfiles idem, coincidente en veces con formas de comunicación similares a las siguientes:
 
-	- Blogueo chorero
-	- Medios Sociales en red
-	- Nuevas News y Fake News y Viejas News
-	- Escuchas hipermodernas
-	- Periodismo multimedia
+	- <kbd>Blogueo chorero</kbd>
+	- <kbd>Medios Sociales en red</kbd>
+	- <kbd>Nuevas News y Fake News y Viejas News</kbd>
+	- <kbd>Escuchas hipermodernas</kbd>
+	- <kbd>Periodismo multimedia</kbd>
 
 ![omg](/images/omgYoure_ddd.gif)
