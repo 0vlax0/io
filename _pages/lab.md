@@ -5,13 +5,13 @@ excerpt: "educación"
 author_profile: true
 ---
 
-# Procesos en educación decolonial
+# <i class="fa-thin fa-book-open-cover"></i> Educación decolonial
 
 
 ## Ensayos
 
  - Disponibles en la sección de [Publicaciones](/publications)
-
+ceepenn.org
 ----
 
 ## Manuales, guías y tutoriales
@@ -34,4 +34,4 @@ author_profile: true
 
 ## Conferencias
  
- - [Documenting Discontent : sound art and archival in Mexico](https://www.centerforexperimentalethnography.org/events/documenting-discontent), Center for Experimental Ethnography of Pensylvania University, Marzo 2021.
+ - [Documenting Discontent : sound art and archival in Mexico](https://www.ceepenn.org/events/documenting-discontent), Center for Experimental Ethnography of Pensylvania University, Marzo 2021.
