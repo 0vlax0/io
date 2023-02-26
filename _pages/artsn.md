@@ -11,7 +11,7 @@ author_profile: true
 
 ### Otros proyectos artísticos [^1]
 
-<h1><i class="fa-regular fa-waveform"></i> Sonido</h1>
+<h1><i class="fa fa-headphones" aria-hidden="true"></i> Sonido</h1>
 
 ## Cuentos
  - 2016 [Microfábulas para niños](https://soundcloud.com/microfabulas/sets)
@@ -21,7 +21,7 @@ author_profile: true
 
 ---
 
-<h1><i class="fa-regular fa-film-canister"></i> Imagen</h1>
+<h1><i class="fa fa-picture-o" aria-hidden="true"></i> Imagen</h1>
 
 ## Video
  - [DMDB GissTV](http://giss.tv/dmmdb/index.php?channel=vlax "Kill TV! LOL")
