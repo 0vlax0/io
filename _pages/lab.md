@@ -5,13 +5,13 @@ excerpt: "educación"
 author_profile: true
 ---
 
-# <i class="fa-thin fa-book-open-cover"></i> Educación decolonial
+<h1><i class="fa-thin fa-book-open-cover"></i> Educación decolonial</h1>
 
 
 ## Ensayos
 
  - Disponibles en la sección de [Publicaciones](/publications)
-ceepenn.org
+
 ----
 
 ## Manuales, guías y tutoriales
