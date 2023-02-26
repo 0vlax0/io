@@ -11,7 +11,8 @@ author_profile: true
 
 ### Otros proyectos artísticos [^1]
 
-# <i class="fa-regular fa-waveform"></i> Sonido
+<h1><i class="fa-regular fa-waveform"></i> Sonido</h1>
+
 ## Cuentos
  - 2016 [Microfábulas para niños](https://soundcloud.com/microfabulas/sets)
 
@@ -20,7 +21,8 @@ author_profile: true
 
 ---
 
-# <i class="fa-regular fa-film-canister"></i> Imagen
+<h1><i class="fa-regular fa-film-canister"></i> Imagen</h1>
+
 ## Video
  - [DMDB GissTV](http://giss.tv/dmmdb/index.php?channel=vlax "Kill TV! LOL")
 
@@ -30,4 +32,4 @@ author_profile: true
  - 2001 [Xaamgëxpet](https://archive.org/details/Xaamgexpet) 
 
 
-[^1]: <i class="fa-light fa-star"></i> De acuerdo con el pensamiento antiguo la _"obra artística"_ es aquel trabajo cultural cuyas características le adecuan para la comunicación o la expresión simbólica. En la época moderna, también dícese del viceversa a esto.
+[^1]: De acuerdo con el pensamiento antiguo la _"obra artística"_ es aquel trabajo cultural cuyas características le adecuan para la comunicación o la expresión simbólica. En la época moderna, también dícese del viceversa a esto.
