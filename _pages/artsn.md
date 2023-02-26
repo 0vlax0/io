@@ -5,22 +5,22 @@ excerpt: "arte"
 author_profile: true
 ---
 
-# Proyectos artísticos [^1]
+# <img src="/images/spider-s.png" alt="spiderssss"> [Destacados](/portfolio/)
 
 ---
 
-## <img src="/images/spider-s.png" alt="spiderssss"> [Proyectos](/portfolio/) destacados 
+### Otros proyectos artísticos [^1]
 
----
-
-# Sonido
+# <i class="fa-regular fa-waveform"></i> Sonido
 ## Cuentos
  - 2016 [Microfábulas para niños](https://soundcloud.com/microfabulas/sets)
 
 ## Periodismo
  - 2021 [Crónicas Prosaicas](https://archive.org/details/cronicas-prosaicas)
 
-# Imagen
+---
+
+# <i class="fa-regular fa-film-canister"></i> Imagen
 ## Video
  - [DMDB GissTV](http://giss.tv/dmmdb/index.php?channel=vlax "Kill TV! LOL")
 
@@ -30,4 +30,4 @@ author_profile: true
  - 2001 [Xaamgëxpet](https://archive.org/details/Xaamgexpet) 
 
 
-[^1]: De acuerdo con el pensamiento antiguo la _"obra artística"_ es aquel trabajo cultural cuyas características le adecuan para la comunicación o la expresión simbólica. En la época moderna, también dícese del viceversa a esto.
+[^1]: <i class="fa-light fa-star"></i> De acuerdo con el pensamiento antiguo la _"obra artística"_ es aquel trabajo cultural cuyas características le adecuan para la comunicación o la expresión simbólica. En la época moderna, también dícese del viceversa a esto.
