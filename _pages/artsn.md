@@ -21,7 +21,7 @@ author_profile: true
 
 ---
 
-<h1><i class="fa fa-picture-o" aria-hidden="true"></i> Imagen</h1>
+<h1><i class="fa fa-camera-retro" aria-hidden="true"></i> Imagen</h1>
 
 ## Video
  - [DMDB GissTV](http://giss.tv/dmmdb/index.php?channel=vlax "Kill TV! LOL")
