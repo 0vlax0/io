@@ -21,7 +21,7 @@
     {% for crumb in crumbs offset: 1 %}
       {% if forloop.first %}
         <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
-          <a href="{{ base_path }}/" class="btn" itemprop="item"><span itemprop="name"><i class="fa-light fa-space-station-moon"></i> {{ site.data.ui-text[site.locale].breadcrumb_home_label | default: "Home" }}</span>&nbsp;</a>
+          <a href="{{ base_path }}/" class="btn" itemprop="item"><span itemprop="name"><i class="fa fa-cube"></i> {{ site.data.ui-text[site.locale].breadcrumb_home_label | default: "Home" }}</span>&nbsp;</a>
           <meta itemprop="position" content="{{ i }}" />
         </li>
         <span class="sep">{{ site.data.ui-text[site.locale].breadcrumb_separator | default: "/" }}</span>
