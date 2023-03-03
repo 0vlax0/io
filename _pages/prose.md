@@ -1,14 +1,12 @@
 ---
 layout: archive
-title: "Prosa"
+title: "Dislate prosístico"
 permalink: /prose/
 author_profile: false
 ---
-# Palabras
-
-![wwh](https://web.archive.org/web/20071213105451/http://www.geocities.com/clipart/pbi/pictures/Holiday/skeletonanim03.gif)
+<h1> <i class="fa-duotone fa-arrow-up-z-a"></i> Palabra y forma <i class="fa-duotone fa-arrow-down-a-z"></i></h1>
 
 {% include base_path %}
 {% for post in site.prose %}
-  {% include archive-single.html %}
+  <i class="fa-thin fa-book-open-reader"></i> {% include archive-single.html %}
 {% endfor %}
