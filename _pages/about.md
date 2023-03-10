@@ -10,7 +10,7 @@ redirect_from:
 
 # °\•/°
 
-<h2> <i class="fa fa-superpowers"></i> <a href="/prose/serquiensoy">Soy mestizo cósmico</a> de piel morena nativo de Mesoamerica y migrante en América del Norte. </h2>
+<h2> <i class="fa fa-sun-o fa-2x"></i> <a href="/prose/serquiensoy">Soy mestizo cósmico</a> de piel morena nativo de Mesoamerica y migrante en América del Norte. </h2>
 
 ### De oficio artesano, trabajo con tecnologías de la educación y la comunicación con fines decoloniales. Comparto tequio en comunidades digitales de software y cultura libre.
 
