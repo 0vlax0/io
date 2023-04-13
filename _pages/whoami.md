@@ -31,8 +31,10 @@ redirect_from:
 `.Noticias de mi mundo antiguo (Archivo 2004-2015)`
 
 - Blog [Notas del Sur](http://notasdelsur.wordpress.com)
+
 - Periodismo de radio
 	- [Radio Bilingue](http://is.gd/rbvfg)
+
 ---
 
 ![who is yo](https://web.archive.org/web/20090903073236/http://geocities.com/whoisceres2/fluffy.gif)
