@@ -33,8 +33,6 @@ redirect_from:
 - Blog [Notas del Sur](http://notasdelsur.wordpress.com)
 - Periodismo de radio
 	- [Radio Bilingue](http://is.gd/rbvfg)
-	- [Free Speech Radio News](https://fsrn.org/search/node/vladimir+flores)
-
 ---
 
 ![who is yo](https://web.archive.org/web/20090903073236/http://geocities.com/whoisceres2/fluffy.gif)
