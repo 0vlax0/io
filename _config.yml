@@ -4,7 +4,7 @@ title                    : "v la x"
 title_separator          : "-"
 name                     : "vlax"
 description              : "portfolio perfil digital home"
-url                      : https://0vlax0.github.io/io # the base hostname & protocol for my site
+url                      : https://vlax.dyner.org # the base hostname & protocol for my site
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 logo					           : "sf_milk.png"
@@ -20,10 +20,6 @@ comments:
     shortname            :
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
-#  facebook:
-#    appid                :
-#    num_posts            : # 5 (default)
-#    colorscheme          : # "light" (default), "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
   branch                 : "gh-pages" # "master", "gh-pages"
@@ -63,9 +59,9 @@ author:
   name             : "vlax"
   avatar           : "vlax-ascii_s.jpg"
   bio              : "artesano multimedia"
-  location         : "Oaxaca - Colorado"
+  location         : "Oaxaca - Colorado - Milkway"
   employer         :
-  email            : "vlax@dyne.org"
+  #email            : "vlax@dyne.org"
   researchgate     :  
   uri              : "http://vlax.dyne.org"
   flickr           :
