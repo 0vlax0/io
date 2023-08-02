@@ -7,7 +7,7 @@ redirect_from:
   - /quien
 ---
 
-![OMG eres tan chingón!](https://web.archive.org/web/20090901175751/http://geocities.com/redfishfalls/who_i_am.gif)
+![OMG eres tan chingón!](/images/gifs/who_i_am.gif)
 
 # Nuevas News
 `.Dislates y desvaríos con gusto hipermoderno`
@@ -37,7 +37,7 @@ redirect_from:
 
 ---
 
-![who is yo](https://web.archive.org/web/20090903073236/http://geocities.com/whoisceres2/fluffy.gif)
+![who is yo](/images/gifs/fluffy.gif)
 
 # Fake News
 `.¿Quieres ser mi amigoa?`
