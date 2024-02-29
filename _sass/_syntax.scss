@@ -1,6 +1,5 @@
 /* ==========================================================================
    Syntax highlighting
-updated with recent commits https://github.com/0vlax0/io/commits/50b339e483fc36fbcfdfee3fdde68d1052f382ee/_sass/_syntax.scss
    ========================================================================== */
 
 div.highlighter-rouge, figure.highlight {
@@ -20,7 +19,7 @@ div.highlighter-rouge, figure.highlight {
     padding: 0.5em;
     background-color: $lighter-gray;
     content: "\f121";
-    font-family: "fontawesome" !important;
+    font-family: "Font Awesome 6 Free" !important;
     font-size: $type-size-6;
     line-height: 1;
     text-transform: none;
