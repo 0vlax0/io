@@ -5,7 +5,7 @@ excerpt: "educación"
 author_profile: true
 ---
 
-<h1><i class="fa fa-book" aria-hidden="true"></i> Educación decolonial</h1>
+<h1><i class="fa-solid fa-book-skull fa-flip-horizontal"></i> Educación decolonial</h1>
 
 
 ## Ensayos
