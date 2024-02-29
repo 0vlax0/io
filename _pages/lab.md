@@ -10,7 +10,7 @@ author_profile: true
 
 ## Ensayos
 
- - Disponibles en la sección de [Publicaciones](/publications)
+ - <i class="fa-solid fa-diamond-turn-right fa-fade fa-lg"></i> Disponibles en la sección de [Publicaciones](/publications)
 
 ----
 
