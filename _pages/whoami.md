@@ -10,10 +10,10 @@ redirect_from:
 ![OMG eres tan chingón!](/images/gifs/who_i_am.gif)
 
 # Nuevas News
-`.Dislates y desvaríos con gusto hipermoderno`
+<i class="fa-solid fa-newspaper"></i> `.Dislates y desvaríos con gusto hipermoderno`
 
  - ### [Diaspora](http://diasp.org/u/vlax "Mis medios a medias")
-	- Reflejándose en [Twitter](https://nitter.cattube.org/vlax_)
+	- Reflejándose en [Twitter](https://nitter.poast.org/vlax_)
 		- Antecedente en [identi.ca](https://identi.ca/vlax)
 
  - ### Internet Archive
@@ -28,7 +28,7 @@ redirect_from:
 ---
 
 # Viejas News
-`.Noticias de mi mundo antiguo (Archivo 2004-2015)`
+<i class="fa-regular fa-newspaper"></i> `.Noticias de mi mundo antiguo (Archivo 2004-2015)`
 
 - Blog [Notas del Sur](http://notasdelsur.wordpress.com)
 
@@ -40,6 +40,6 @@ redirect_from:
 ![who is yo](/images/gifs/fluffy.gif)
 
 # Fake News
-`.¿Quieres ser mi amigoa?`
+<i class="fa-solid fa-poo"></i> `.¿Quieres ser mi amigoa?`
 
 - [Facebook](https://www.facebook.com/public/vladimir-flores-garcia)
