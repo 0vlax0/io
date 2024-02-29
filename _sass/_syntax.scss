@@ -1,5 +1,6 @@
 /* ==========================================================================
    Syntax highlighting
+updated with recent commits https://github.com/0vlax0/io/commits/50b339e483fc36fbcfdfee3fdde68d1052f382ee/_sass/_syntax.scss
    ========================================================================== */
 
 div.highlighter-rouge, figure.highlight {
@@ -10,6 +11,7 @@ div.highlighter-rouge, figure.highlight {
   border-radius: $border-radius;
   background-color: $code-background-color;
   box-shadow: $box-shadow;
+  font-size: $type-size-4;
 
   &:before {
     position: absolute;
@@ -28,7 +30,7 @@ div.highlighter-rouge, figure.highlight {
   .highlight {
     margin: 0;
     font-family: $monospace;
-    font-size: $type-size-7;
+    font-size: $type-size-6;
     line-height: 1.8;
   }
 }
