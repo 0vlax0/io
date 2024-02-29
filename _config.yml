@@ -1,4 +1,6 @@
-# Site Settings
+#
+# General SITE Settings
+#
 locale                   : "es-ES"
 title                    : "v la x"
 title_separator          : "-"
@@ -6,40 +8,31 @@ name                     : "vlax"
 description              : "portfolio perfil digital home"
 url                      : https://vlax.dyne.org # the base hostname & protocol for my site
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
-logo					           : "sf_milk.png"
 repository               : "0vlax0/io"
-breadcrumbs              : true # true, false (default)
-words_per_minute         : 160
-future                   : true
-read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
-talkmap_link             : false #change to true to add link to talkmap on talks page
-comments:
-  provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
-  disqus:
-    shortname            :
-  discourse:
-    server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
-staticman:
-  allowedFields          : ['name', 'email', 'url', 'message']
-  branch                 : "gh-pages" # "master", "gh-pages"
-  commitMessage          : "New comment."
-  filename               : comment-{@timestamp}
-  format                 : "yml"
-  moderation             : true
-  path                   : "_data/comments/{options.slug}"
-  requiredFields         : ['name', 'email', 'message']
-  transforms:
-    email                : "md5"
-  generatedFields:
-    date:
-      type               : "date"
-      options:
-        format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
-atom_feed:
-  path                   : # blank (default) uses feed.xml
 
+#
+# AUTOR
+# controla lo que aparece en el sidebar en la sección de autor
+# si algun campo no tiene valor, el icono y el link no aparecerán, si lo tienen aparecen
+# ajustes adicionales se pueden hacer editando /_includes/author-profile.html
+#
+# Biographic info
+#
+author:
+  name             : "vlax"
+  avatar           : "vlax-ascii_s.jpg"
+  bio              : "artesano multimedia"
+  location         : "Milkyway - Oaxaca - Colorado"
+  uri              : "https://vlax.dyne.org"
+  github           : 0vlax0
+  diaspora 		     : "vlax"
+  # nitter		       : "vlax_" #mismo fa icon que tw
 
+teaser             :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+breadcrumbs        : false # true, false (default)
+words_per_minute   : 160
+future             : true
+read_more          : "disabled" # if enabled, adds "Read more" links to excerpts
 
 # Social Sharing
 twitter:
@@ -53,25 +46,6 @@ social:
   links: # An array of links to social media profiles
   # - "https://twitter.com/vlax_"
   - "https://diasp.org/u/vlax"
-
-# Site Author
-author:
-  name             : "vlax"
-  avatar           : "vlax-ascii_s.jpg"
-  bio              : "artesano multimedia"
-  location         : "Milkyway - Oaxaca - Colorado"
-  employer         :
-  #email            : "vlax@dyne.org"
-  researchgate     :  
-  uri              : "https://vlax.dyne.org"
-  flickr           :
-  github           : 
-  diaspora 		     : "vlax"
-  keybase          :
-  lastfm           :
-  soundcloud       :
-  stackoverflow    : 
-  # nitter		       : "vlax_" #mismo fa icon que tw
 
 # Reading Files
 include:
@@ -160,7 +134,7 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: true
+      comments: false
       share: true
       related: true
   # _pages
