@@ -71,7 +71,7 @@ es: &DEFAULT_ES
   related_label              : "Quizás te interese"
   follow_label               : "Seguir:"
   feed_label                 : "Feed"
-  powered_by                 : "Creado por"
+  powered_by                 : "Funciona con"
   website_label              : "Sitio web"
   email_label                : "Correo"
   recent_posts               : "Entradas recientes"
