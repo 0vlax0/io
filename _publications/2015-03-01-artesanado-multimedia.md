@@ -12,4 +12,3 @@ citation: 'Flores-García, Vladimir. (2015). &quot;Artesanado Multimedia. Aproxi
  - [Descarga PDF](http://0vlax0.github.io/io/files/ArtesanadoMultimedia_UNAM_tesis.pdf)
  - Espejo en la [Biblioteca de la UNAM ](https://is.gd/oYlUCI)
  
-Citación recomendada: Flores-García, Vladimir. (2015). "Artesanado Multimedia : aproximaciones racionales desde la cultura libre" <i>Ensayo</i>.
