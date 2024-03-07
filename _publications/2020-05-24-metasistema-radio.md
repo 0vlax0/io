@@ -13,4 +13,3 @@ Este ensayo forma parte de los trabajos finales del curso _"Pensamiento Sistémi
 
  - [Descargar archivo PDF](http://0vlax0.github.io/io/files/MetaSistema-para-Radio_Vladimir_Flores_2020.pdf)
 
-Citación recomendada: Flores-García, Vladimir. (2020). "Un meta sistema para la producción radiofónica." <i>Ensayo</i>.
