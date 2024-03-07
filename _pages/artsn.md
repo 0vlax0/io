@@ -9,7 +9,7 @@ author_profile: true
 
 ---
 
-### Otros proyectos artísticos [^1]
+## Otros proyectos artísticos [^1]
 
 <h1><i class="fa-solid fa-headphones-simple"></i> Sonido</h1>
 
@@ -18,6 +18,7 @@ author_profile: true
 
 ## Periodismo
  - 2021 [Crónicas Prosaicas](https://archive.org/details/cronicas-prosaicas)
+ - 2023 [JCLC Memories and Learnings](https://soundcloud.com/jclc2022mem/sets/radio)
 
 ---
 
