@@ -33,7 +33,7 @@ redirect_from:
 - Blog [Notas del Sur](http://notasdelsur.wordpress.com)
 
 - Periodismo de radio
-	- [Radio Bilingue](http://is.gd/rbvfg)
+	- [Radio Bilingüe](http://is.gd/rbvfg)
 
 ---
 
