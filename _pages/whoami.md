@@ -22,7 +22,6 @@ redirect_from:
  - ### Radio
  	Mis escuchas
 	- [listen notes](https://lnns.co/EYj1bsQgx0l)
-	- [gpodder](https://gpodder.net/user/vlax/)
 
 ---
 
