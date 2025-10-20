@@ -12,7 +12,7 @@ redirect_from:
 
 <h2> <i class="fa-solid fa-sun fa-beat fa-xs"></i> <a href="/prose/serquiensoy">Soy mestizo cósmico</a> de piel morena nativo de Mesoamerica y migrante en América del Norte. </h2>
 
-<h3> <i class="fa-solid fa-screwdriver-wrench fa-xs"></i>Hago artesanías con tecnologías de la información para fines decoloniales. </h3>
+<h3> <i class="fa-solid fa-screwdriver-wrench fa-xs"> </i>Hago artesanías con tecnologías de la información para fines decoloniales.</h3>
 
 > ![ohh](/images/posada-catrinitar.gif) _[Encuentrame](/quien)_ en mi vertedero de dislates y desvaríos.[^1]
 
